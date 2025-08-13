@@ -20,7 +20,7 @@ Irei utilizar dados de emprestimos de um Acervo das bibliotecas da UFRN. Os mesm
   - Manipulação de DataFrames com **Pandas**
   - Limpeza e tratamento de dados (dados nulos, tipos de dados e duplicados)
   - Operações de merge e concatenação de dados
-  - Logicas booleanas utilizando o **Numpy
+  - Logicas booleanas utilizando o **Numpy**
 
 ---
 
