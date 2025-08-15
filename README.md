@@ -15,44 +15,55 @@ Irei utilizar dados de emprestimos de um Acervo das bibliotecas da UFRN. Os mesm
 ---
 
 ## Tecnologias e conceitos abordados (Ireí atualizando conforme os dias se passam)
-  - Leitura de dados CSV e Parquet
-  - Logica de programação, manipulação de arquivos e pastas, manipulação de listas
-  - Manipulação de DataFrames com **Pandas**
-  - Limpeza e tratamento de dados (dados nulos, tipos de dados e duplicados)
-  - Operações de merge e concatenação de dados
-  - Logicas booleanas utilizando o **Numpy**
+- Leitura de dados CSV e Parquet
+- Logica de programação, manipulação de arquivos e pastas, manipulação de listas
+- Manipulação de DataFrames com **Pandas**
+- Limpeza e tratamento de dados (dados nulos, tipos de dados e duplicados)
+- Operações de merge e concatenação de dados
+- Logicas booleanas utilizando o **Numpy**
+- Criação de graficos utilizando o **Plotly.Express**
+- Criação de imagens estaticas utilizando o **Plotly.io**
 
 ---
 
 ## Bibliotecas utilizadas:
-  - **Pandas**
-  - **Glob**
-  - **OS**
-  - **FastParquet**
-  - **Numpy**
+- **Pandas**
+- **Glob**
+- **OS**
+- **FastParquet**
+- **Numpy**
 
 ---
 
 # Resultados
 
-## Dia 1
+## Dia 1 - Importação dos dados e tratamento de valores nulos
 
 ![Leitura de dados](/img/dia-1/dia-1-1.png)
 ![Criação de df_completo_limpo](/img/dia-1/dia-1-2.png)
 ![Tratar valores nulos](/img/dia-1/dia-1-3.png)
 
-Resultado do Dia 1: [Arquivo Dia 1](/Datasets/dados_resultados/dia-1.csv)
+Resultado do Dia 1: [Arquivo Dia 1 CSV](/Datasets/dados_resultados/dia-1.csv)
 
 ---
 
-## Dia 2
+## Dia 2 - Classificando os livros por tipo
 
 ![Criação das classificações](/img/dia-2/dia_2_1.png)
 ![Manipulação das colunas](/img/dia-2/dia_2_2.png)
 ![Salvar o arquivo](/img/dia-2/dia_2_3.png)
 
-Resultado do Dia 2: [Arquivo Dia 2](/Datasets/dados_resultados/dia-2.csv)
+Resultado do Dia 2: [Arquivo Dia 2 CSV](/Datasets/dados_resultados/dia-2.csv)
 
+---
+
+## Dia 3 - Primeiras Visualizações de dados
+
+![Evolução Anual de Exemplares Emprestado](/img/resultados_graficos/evolucao_anual.png)
+![Distribuição Mensal de Exemplares Emprestados](/img/resultados_graficos/evolucao_mensal.png)
+![Volume de Empréstimos por Horário do Dia](/img/resultados_graficos/melhor_horario.png)
+
+Resultado do Dia 3: [Arquivo Dia 3 CSV](/Datasets/dados_resultados/dia-3.csv)
 
 ---
 
