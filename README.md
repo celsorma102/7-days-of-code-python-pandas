@@ -67,6 +67,13 @@ Resultado do Dia 3: [Arquivo Dia 3 CSV](/Datasets/dados_resultados/dia-3.csv)
 
 ---
 
+## Dia 4 - Criando função e tabelas para analise 
+
+![Função para criar uma tabela com a quantidade e porcentagem da coluna](/img/dia-4/funcao.png)
+![Chamando a função](/img/dia-4/chamando_funcao.png)
+
+---
+
 ## Conecte-se comigo!
 Estou aberto a trocar experiências sobre **Python**, **Data Science** e aprendizado contínuo. Me acompanhe para mais conteúdos sobre programação e análise de dados!
 
